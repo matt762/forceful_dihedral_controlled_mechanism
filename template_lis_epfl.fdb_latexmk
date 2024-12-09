@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex template_lis_epfl"] 1733733426.60893 "template_lis_epfl.aux" "template_lis_epfl.bbl" "template_lis_epfl" 1733734024.00293 0
+["bibtex template_lis_epfl"] 1733733426.60893 "template_lis_epfl.aux" "template_lis_epfl.bbl" "template_lis_epfl" 1733734685.97583 0
   "./IEEEexample.bib" 1708095768 1131 3115e22632a4c386d7b8530687c4d135 ""
   "/usr/share/texlive/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1440712899 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "template_lis_epfl.aux" 1733734023.59253 663 d9e837b66ccfadecf468fb7837f1282d "pdflatex"
+  "template_lis_epfl.aux" 1733734685.57172 663 d9e837b66ccfadecf468fb7837f1282d "pdflatex"
   (generated)
   "template_lis_epfl.bbl"
   "template_lis_epfl.blg"
   (rewritten before read)
-["pdflatex"] 1733734023.08929 "/home/matt/Documents/dihedral/forceful_dihedral_controlled_mechanism/template_lis_epfl.tex" "template_lis_epfl.pdf" "template_lis_epfl" 1733734024.00331 0
-  "/home/matt/Documents/dihedral/forceful_dihedral_controlled_mechanism/template_lis_epfl.tex" 1733734022.79653 5835 6e30015b999e978937f95af17af0d06e ""
+["pdflatex"] 1733734685.03136 "/home/matt/Documents/dihedral/forceful_dihedral_controlled_mechanism/template_lis_epfl.tex" "template_lis_epfl.pdf" "template_lis_epfl" 1733734685.97617 0
+  "/home/matt/Documents/dihedral/forceful_dihedral_controlled_mechanism/template_lis_epfl.tex" 1733734684.7377 5836 fd7b97e76675f7c7c46b01ffdbcf3988 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1721433600 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -73,9 +73,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1721433600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1733732786.08224 4547823 614eba97e0451aad345770236b030e55 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1733732586 7757849 1985262b4ca5bd15b3851f6994dad7ec ""
-  "template_lis_epfl.aux" 1733734023.59253 663 d9e837b66ccfadecf468fb7837f1282d "pdflatex"
+  "template_lis_epfl.aux" 1733734685.57172 663 d9e837b66ccfadecf468fb7837f1282d "pdflatex"
   "template_lis_epfl.bbl" 1733733426.7049 1363 4ef32523a32d5ef743b4430abaeba4c7 "bibtex template_lis_epfl"
-  "template_lis_epfl.tex" 1733734022.79653 5835 6e30015b999e978937f95af17af0d06e ""
+  "template_lis_epfl.tex" 1733734684.7377 5836 fd7b97e76675f7c7c46b01ffdbcf3988 ""
   (generated)
   "template_lis_epfl.aux"
   "template_lis_epfl.log"
